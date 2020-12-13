@@ -2,7 +2,7 @@ from wwo_hist import retrieve_hist_data
 frequency = 24
 start_date = '07-DEC-2019'
 end_date = '06-DEC-2020'
-api_key = '34e3f725d6e04e97a2e212646200612'
+api_key = ''
 location_list = ['aruba']
 location_list=final.RegionName.unique()
 for i in range(len(location_list)):
